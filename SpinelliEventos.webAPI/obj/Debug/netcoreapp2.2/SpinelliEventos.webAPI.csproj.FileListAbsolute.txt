@@ -1,0 +1,14 @@
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.webAPI\obj\Debug\netcoreapp2.2\SpinelliEventos.webAPI.csprojAssemblyReference.cache
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.webAPI\obj\Debug\netcoreapp2.2\SpinelliEventos.webAPI.csproj.CoreCompileInputs.cache
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.webAPI\obj\Debug\netcoreapp2.2\SpinelliEventos.webAPI.RazorAssemblyInfo.cache
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.webAPI\obj\Debug\netcoreapp2.2\SpinelliEventos.webAPI.RazorAssemblyInfo.cs
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.webAPI\obj\Debug\netcoreapp2.2\SpinelliEventos.webAPI.AssemblyInfoInputs.cache
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.webAPI\obj\Debug\netcoreapp2.2\SpinelliEventos.webAPI.AssemblyInfo.cs
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.webAPI\bin\Debug\netcoreapp2.2\SpinelliEventos.webAPI.deps.json
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.webAPI\bin\Debug\netcoreapp2.2\SpinelliEventos.webAPI.runtimeconfig.json
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.webAPI\bin\Debug\netcoreapp2.2\SpinelliEventos.webAPI.runtimeconfig.dev.json
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.webAPI\bin\Debug\netcoreapp2.2\SpinelliEventos.webAPI.dll
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.webAPI\bin\Debug\netcoreapp2.2\SpinelliEventos.webAPI.pdb
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.webAPI\obj\Debug\netcoreapp2.2\SpinelliEventos.webAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.webAPI\obj\Debug\netcoreapp2.2\SpinelliEventos.webAPI.dll
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.webAPI\obj\Debug\netcoreapp2.2\SpinelliEventos.webAPI.pdb
