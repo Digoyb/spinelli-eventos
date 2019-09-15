@@ -1,7 +1,8 @@
 using Microsoft.EntityFrameworkCore;
-using SpinelliEventos.webAPI.model;
+using SpinelliEventos.Domain;
 
-namespace SpinelliEventos.webAPI.Controllers.data
+
+namespace SpinelliEventos.Repository.data
 {
     public class DataContext: DbContext
     {

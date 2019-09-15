@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.webAPI\\SpinelliEventos.webAPI.csproj": {}
+    "c:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.webAPI\\SpinelliEventos.webAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Domain\\SpinelliEventos.Domain.csproj": {
+    "c:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Domain\\SpinelliEventos.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Domain\\SpinelliEventos.Domain.csproj",
+        "projectUniqueName": "c:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Domain\\SpinelliEventos.Domain.csproj",
         "projectName": "SpinelliEventos.Domain",
-        "projectPath": "C:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Domain\\SpinelliEventos.Domain.csproj",
+        "projectPath": "c:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Domain\\SpinelliEventos.Domain.csproj",
         "packagesPath": "C:\\Users\\Digoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Domain\\obj\\",
+        "outputPath": "c:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Repository\\SpinelliEventos.Repository.csproj": {
+    "c:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Repository\\SpinelliEventos.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Repository\\SpinelliEventos.Repository.csproj",
+        "projectUniqueName": "c:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Repository\\SpinelliEventos.Repository.csproj",
         "projectName": "SpinelliEventos.Repository",
-        "projectPath": "C:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Repository\\SpinelliEventos.Repository.csproj",
+        "projectPath": "c:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Repository\\SpinelliEventos.Repository.csproj",
         "packagesPath": "C:\\Users\\Digoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Repository\\obj\\",
+        "outputPath": "c:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -82,8 +82,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Domain\\SpinelliEventos.Domain.csproj": {
-                "projectPath": "C:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Domain\\SpinelliEventos.Domain.csproj"
+              "c:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Domain\\SpinelliEventos.Domain.csproj": {
+                "projectPath": "c:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Domain\\SpinelliEventos.Domain.csproj"
               }
             }
           }
@@ -97,6 +97,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -112,14 +116,14 @@
         }
       }
     },
-    "C:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.webAPI\\SpinelliEventos.webAPI.csproj": {
+    "c:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.webAPI\\SpinelliEventos.webAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.webAPI\\SpinelliEventos.webAPI.csproj",
+        "projectUniqueName": "c:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.webAPI\\SpinelliEventos.webAPI.csproj",
         "projectName": "SpinelliEventos.webAPI",
-        "projectPath": "C:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.webAPI\\SpinelliEventos.webAPI.csproj",
+        "projectPath": "c:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.webAPI\\SpinelliEventos.webAPI.csproj",
         "packagesPath": "C:\\Users\\Digoh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.webAPI\\obj\\",
+        "outputPath": "c:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.webAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -138,11 +142,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Domain\\SpinelliEventos.Domain.csproj": {
-                "projectPath": "C:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Domain\\SpinelliEventos.Domain.csproj"
+              "c:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Domain\\SpinelliEventos.Domain.csproj": {
+                "projectPath": "c:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Domain\\SpinelliEventos.Domain.csproj"
               },
-              "C:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Repository\\SpinelliEventos.Repository.csproj": {
-                "projectPath": "C:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Repository\\SpinelliEventos.Repository.csproj"
+              "c:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Repository\\SpinelliEventos.Repository.csproj": {
+                "projectPath": "c:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Repository\\SpinelliEventos.Repository.csproj"
               }
             }
           }

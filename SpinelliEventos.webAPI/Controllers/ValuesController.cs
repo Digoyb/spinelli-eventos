@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using SpinelliEventos.webAPI.Controllers.data;
-using SpinelliEventos.webAPI.model;
+using SpinelliEventos.Repository.data;
 
 namespace SpinelliEventos.webAPI.Controllers
 {
