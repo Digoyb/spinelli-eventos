@@ -11,9 +11,9 @@ namespace SpinelliEventos.webAPI.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
-        public readonly DataContext _context;
+        public readonly SpinelliEventosContext _context;
 
-        public ValuesController(DataContext context)
+        public ValuesController(SpinelliEventosContext context)
         {
             _context = context;
         }
