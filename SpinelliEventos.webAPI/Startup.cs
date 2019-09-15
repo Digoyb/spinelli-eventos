@@ -39,7 +39,7 @@ namespace SpinelliEventos.webAPI
             {
                 app.UseDeveloperExceptionPage();
             }
-            else
+            else 
             {
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
@@ -47,7 +47,9 @@ namespace SpinelliEventos.webAPI
 
             // app.UseHttpsRedirection();
             app.UseCors(x => x.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
+            app.UseStaticFiles();
             app.UseMvc();
+            
         }
     }
 }
