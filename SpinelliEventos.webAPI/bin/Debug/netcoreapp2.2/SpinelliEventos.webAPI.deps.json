@@ -26,13 +26,34 @@
         "dependencies": {
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
-          "Microsoft.NETCore.App": "2.2.0"
+          "Microsoft.NETCore.App": "2.2.0",
+          "SpinelliEventos.Domain": "1.0.0",
+          "SpinelliEventos.Repository": "1.0.0"
         },
         "runtime": {
           "SpinelliEventos.webAPI.dll": {}
         },
         "compile": {
           "SpinelliEventos.webAPI.dll": {}
+        }
+      },
+      "SpinelliEventos.Domain/1.0.0": {
+        "runtime": {
+          "SpinelliEventos.Domain.dll": {}
+        },
+        "compile": {
+          "SpinelliEventos.Domain.dll": {}
+        }
+      },
+      "SpinelliEventos.Repository/1.0.0": {
+        "dependencies": {
+          "SpinelliEventos.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SpinelliEventos.Repository.dll": {}
+        },
+        "compile": {
+          "SpinelliEventos.Repository.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -3233,6 +3254,16 @@
   },
   "libraries": {
     "SpinelliEventos.webAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SpinelliEventos.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SpinelliEventos.Repository/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

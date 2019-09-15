@@ -4438,6 +4438,29 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "SpinelliEventos.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/SpinelliEventos.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SpinelliEventos.Domain.dll": {}
+        }
+      },
+      "SpinelliEventos.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "SpinelliEventos.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SpinelliEventos.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SpinelliEventos.Repository.dll": {}
+        }
       }
     }
   },
@@ -12067,13 +12090,25 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "SpinelliEventos.Domain/1.0.0": {
+      "type": "project",
+      "path": "../SpinelliEventos.Domain/SpinelliEventos.Domain.csproj",
+      "msbuildProject": "../SpinelliEventos.Domain/SpinelliEventos.Domain.csproj"
+    },
+    "SpinelliEventos.Repository/1.0.0": {
+      "type": "project",
+      "path": "../SpinelliEventos.Repository/SpinelliEventos.Repository.csproj",
+      "msbuildProject": "../SpinelliEventos.Repository/SpinelliEventos.Repository.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
-      "Microsoft.NETCore.App >= 2.2.0"
+      "Microsoft.NETCore.App >= 2.2.0",
+      "SpinelliEventos.Domain >= 1.0.0",
+      "SpinelliEventos.Repository >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -12105,7 +12140,14 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Domain\\SpinelliEventos.Domain.csproj": {
+              "projectPath": "C:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Domain\\SpinelliEventos.Domain.csproj"
+            },
+            "C:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Repository\\SpinelliEventos.Repository.csproj": {
+              "projectPath": "C:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Repository\\SpinelliEventos.Repository.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,0 +1,9 @@
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.Domain\bin\Debug\netstandard2.0\SpinelliEventos.Domain.deps.json
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.Domain\bin\Debug\netstandard2.0\SpinelliEventos.Domain.dll
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.Domain\bin\Debug\netstandard2.0\SpinelliEventos.Domain.pdb
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.Domain\obj\Debug\netstandard2.0\SpinelliEventos.Domain.csprojAssemblyReference.cache
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.Domain\obj\Debug\netstandard2.0\SpinelliEventos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.Domain\obj\Debug\netstandard2.0\SpinelliEventos.Domain.AssemblyInfoInputs.cache
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.Domain\obj\Debug\netstandard2.0\SpinelliEventos.Domain.AssemblyInfo.cs
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.Domain\obj\Debug\netstandard2.0\SpinelliEventos.Domain.dll
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.Domain\obj\Debug\netstandard2.0\SpinelliEventos.Domain.pdb

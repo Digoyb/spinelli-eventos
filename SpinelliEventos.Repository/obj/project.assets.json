@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "SpinelliEventos.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/SpinelliEventos.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SpinelliEventos.Domain.dll": {}
+        }
       }
     }
   },
@@ -171,11 +181,17 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "SpinelliEventos.Domain/1.0.0": {
+      "type": "project",
+      "path": "../SpinelliEventos.Domain/SpinelliEventos.Domain.csproj",
+      "msbuildProject": "../SpinelliEventos.Domain/SpinelliEventos.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.3"
+      "NETStandard.Library >= 2.0.3",
+      "SpinelliEventos.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -207,7 +223,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Domain\\SpinelliEventos.Domain.csproj": {
+              "projectPath": "C:\\Users\\Digoh\\Desktop\\SpinelliEventos\\SpinelliEventos.Domain\\SpinelliEventos.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

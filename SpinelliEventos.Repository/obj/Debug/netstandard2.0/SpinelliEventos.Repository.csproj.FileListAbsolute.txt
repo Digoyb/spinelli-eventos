@@ -1,0 +1,12 @@
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.Repository\bin\Debug\netstandard2.0\SpinelliEventos.Repository.deps.json
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.Repository\bin\Debug\netstandard2.0\SpinelliEventos.Repository.dll
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.Repository\bin\Debug\netstandard2.0\SpinelliEventos.Repository.pdb
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.Repository\bin\Debug\netstandard2.0\SpinelliEventos.Domain.dll
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.Repository\bin\Debug\netstandard2.0\SpinelliEventos.Domain.pdb
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.Repository\obj\Debug\netstandard2.0\SpinelliEventos.Repository.csprojAssemblyReference.cache
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.Repository\obj\Debug\netstandard2.0\SpinelliEventos.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.Repository\obj\Debug\netstandard2.0\SpinelliEventos.Repository.AssemblyInfoInputs.cache
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.Repository\obj\Debug\netstandard2.0\SpinelliEventos.Repository.AssemblyInfo.cs
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.Repository\obj\Debug\netstandard2.0\SpinelliEventos.Repository.csproj.CopyComplete
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.Repository\obj\Debug\netstandard2.0\SpinelliEventos.Repository.dll
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.Repository\obj\Debug\netstandard2.0\SpinelliEventos.Repository.pdb

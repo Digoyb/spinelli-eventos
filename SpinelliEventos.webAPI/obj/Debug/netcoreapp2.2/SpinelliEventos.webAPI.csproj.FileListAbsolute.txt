@@ -12,3 +12,8 @@ C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.webAPI\bin\Debug\netcorea
 C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.webAPI\obj\Debug\netcoreapp2.2\SpinelliEventos.webAPI.RazorTargetAssemblyInfo.cache
 C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.webAPI\obj\Debug\netcoreapp2.2\SpinelliEventos.webAPI.dll
 C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.webAPI\obj\Debug\netcoreapp2.2\SpinelliEventos.webAPI.pdb
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.webAPI\bin\Debug\netcoreapp2.2\SpinelliEventos.Domain.dll
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.webAPI\bin\Debug\netcoreapp2.2\SpinelliEventos.Repository.dll
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.webAPI\bin\Debug\netcoreapp2.2\SpinelliEventos.Domain.pdb
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.webAPI\bin\Debug\netcoreapp2.2\SpinelliEventos.Repository.pdb
+C:\Users\Digoh\Desktop\SpinelliEventos\SpinelliEventos.webAPI\obj\Debug\netcoreapp2.2\SpinelliEventos.webAPI.csproj.CopyComplete
